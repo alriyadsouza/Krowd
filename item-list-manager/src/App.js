@@ -13,7 +13,19 @@ const ListManager = () => {
 
   return (
     <div style={{ padding: '20px', maxWidth: '400px', margin: 'auto' }}>
-      <h1>List Manager</h1>
+      <header
+        style={{
+          backgroundColor: 'blue',
+          color: 'white',
+          padding: '10px',
+          textAlign: 'center',
+          borderRadius: '4px',
+          marginBottom: '20px',
+        }}
+      >
+        <h2 style={{ margin: 0 }}>Item List Mangaer</h2>
+      </header>
+      <h1>Item List</h1>
       <input
         type="text"
         placeholder="Enter item"
