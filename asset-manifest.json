@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Krowd/static/css/main.e6c13ad2.css",
+    "main.js": "/Krowd/static/js/main.e46e27df.js",
+    "static/js/488.cf127195.chunk.js": "/Krowd/static/js/488.cf127195.chunk.js",
+    "index.html": "/Krowd/index.html",
+    "main.e6c13ad2.css.map": "/Krowd/static/css/main.e6c13ad2.css.map",
+    "main.e46e27df.js.map": "/Krowd/static/js/main.e46e27df.js.map",
+    "488.cf127195.chunk.js.map": "/Krowd/static/js/488.cf127195.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e46e27df.js"
+  ]
+}
